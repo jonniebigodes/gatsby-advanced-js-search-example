@@ -7,4 +7,4 @@ It uses js-search to look for markdown content.
 
 ## Live Version
 
-The live version is here
+The live version is [here](https://upbeat-lumiere-ed0abe.netlify.com/)
